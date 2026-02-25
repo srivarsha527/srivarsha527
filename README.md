@@ -39,5 +39,8 @@ Feel free to connect with me!
 
 ## 🚀 Currently
 
+- 🔭 Working on a **Financial Literacy App**
 - 💡 Participating in **hackathons** and team-based problem solving challenges  
-- 🌱 Improving my skills in **Java, frontend development and Git workflows**
+- 🌱 Improving my skills in **Java, web development and Git workflows**
+- enhancing DSA skills
+  
